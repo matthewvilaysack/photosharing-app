@@ -1,0 +1,18 @@
+.cs142-topbar-appBar {
+  background-color: #333;
+}
+
+.cs142-topbar-appBar .MuiToolbar-root {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cs142-topbar-appBar .MuiTypography-root {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.cs142-topbar-appContext {
+  font-size: 14px;
+}
