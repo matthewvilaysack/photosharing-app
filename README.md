@@ -1,1 +1,0 @@
-# photosharing-app
